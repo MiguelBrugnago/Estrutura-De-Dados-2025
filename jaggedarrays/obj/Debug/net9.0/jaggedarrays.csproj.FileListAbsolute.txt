@@ -1,0 +1,15 @@
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.AssemblyInfoInputs.cache
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.AssemblyInfo.cs
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.csproj.CoreCompileInputs.cache
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.sourcelink.json
+C:\git\Estrutura de Dados\jaggedarrays\bin\Debug\net9.0\jaggedarrays.exe
+C:\git\Estrutura de Dados\jaggedarrays\bin\Debug\net9.0\jaggedarrays.deps.json
+C:\git\Estrutura de Dados\jaggedarrays\bin\Debug\net9.0\jaggedarrays.runtimeconfig.json
+C:\git\Estrutura de Dados\jaggedarrays\bin\Debug\net9.0\jaggedarrays.dll
+C:\git\Estrutura de Dados\jaggedarrays\bin\Debug\net9.0\jaggedarrays.pdb
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.dll
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\refint\jaggedarrays.dll
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.pdb
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\jaggedarrays.genruntimeconfig.cache
+C:\git\Estrutura de Dados\jaggedarrays\obj\Debug\net9.0\ref\jaggedarrays.dll
