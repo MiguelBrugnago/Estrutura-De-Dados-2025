@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.exe
 C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.deps.json
 C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\refint\
 C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.pdb
 C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.genruntimeconfig.cache
 C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\ref\recursive.dll
+=======
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.exe
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.deps.json
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.runtimeconfig.json
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.dll
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\bin\Debug\net9.0\recursive.pdb
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.AssemblyInfoInputs.cache
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.AssemblyInfo.cs
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.csproj.CoreCompileInputs.cache
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.sourcelink.json
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.dll
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\refint\recursive.dll
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.pdb
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\recursive.genruntimeconfig.cache
+C:\Estrutura de dados\Estrutura-De-Dados-2025\recursive\obj\Debug\net9.0\ref\recursive.dll
+>>>>>>> 4860050dd2d4dd74d82b4df8905058b29ccbab6b

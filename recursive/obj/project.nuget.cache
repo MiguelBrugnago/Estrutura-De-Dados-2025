@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "b987bZfL8SY=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Estrutura de dados\\Estrutura-De-Dados-2025\\recursive\\recursive.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "b987bZfL8SY=",
+  "success": true,
+  "projectFilePath": "C:\\Estrutura de dados\\Estrutura-De-Dados-2025\\recursive\\recursive.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 4860050dd2d4dd74d82b4df8905058b29ccbab6b
 }
