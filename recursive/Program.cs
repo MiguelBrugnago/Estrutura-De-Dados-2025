@@ -1,0 +1,25 @@
+﻿Console.WriteLine("enter the lenght of the fibbonacci series ");
+
+string input = Console.ReadLine(); 
+
+int lenght = 0;
+
+if(!Int32.TryParse(input , out lenght))
+{
+    Console.WriteLine("Numero Invalido");
+    return;
+}
+
+for (int i = 0; i < lenght; i++)
+{
+    Console.Write("{0} ", FibonacciSeries(i));
+}
+Console.ReadKey();
+
+
+static int FibonacciSeries(int n)
+{
+    if (n == 0) return 0; // to return the first number fibonacci number
+    if (n == 1) return 1; // to return the second number fibonacci number
+    return FibonacciSeries(n - 1) + FibonacciSeries(n - 2);
+}

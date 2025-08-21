@@ -1,0 +1,15 @@
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\bin\Debug\net9.0\factorial.exe
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\bin\Debug\net9.0\factorial.deps.json
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\bin\Debug\net9.0\factorial.runtimeconfig.json
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\bin\Debug\net9.0\factorial.dll
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\bin\Debug\net9.0\factorial.pdb
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.AssemblyInfoInputs.cache
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.AssemblyInfo.cs
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.csproj.CoreCompileInputs.cache
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.sourcelink.json
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.dll
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\refint\factorial.dll
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.pdb
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\factorial.genruntimeconfig.cache
+C:\Estrutura de dados\Estrutura-De-Dados-2025\factorial\obj\Debug\net9.0\ref\factorial.dll
