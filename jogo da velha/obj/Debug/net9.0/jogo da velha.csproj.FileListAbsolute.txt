@@ -1,0 +1,15 @@
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\bin\Debug\net9.0\jogo da velha.exe
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\bin\Debug\net9.0\jogo da velha.deps.json
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\bin\Debug\net9.0\jogo da velha.runtimeconfig.json
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\bin\Debug\net9.0\jogo da velha.dll
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\bin\Debug\net9.0\jogo da velha.pdb
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.AssemblyInfoInputs.cache
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.AssemblyInfo.cs
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.csproj.CoreCompileInputs.cache
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.sourcelink.json
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.dll
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\refint\jogo da velha.dll
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.pdb
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\jogo da velha.genruntimeconfig.cache
+C:\Estrutura de dados 2025\Estrutura-De-Dados-2025\jogo da velha\obj\Debug\net9.0\ref\jogo da velha.dll

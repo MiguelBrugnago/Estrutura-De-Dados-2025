@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\Arrays\\Arrays.csproj": {}
+    "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\jogo da velha\\jogo da velha.csproj": {}
   },
   "projects": {
-    "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\Arrays\\Arrays.csproj": {
+    "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\jogo da velha\\jogo da velha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\jogo da velha\\jogo da velha.csproj",
+        "projectName": "jogo da velha",
+        "projectPath": "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\jogo da velha\\jogo da velha.csproj",
         "packagesPath": "C:\\Users\\443657\\.nuget\\packages\\",
-        "outputPath": "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\Arrays\\obj\\",
+        "outputPath": "C:\\Estrutura de dados 2025\\Estrutura-De-Dados-2025\\jogo da velha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
