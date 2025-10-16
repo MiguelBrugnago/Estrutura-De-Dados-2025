@@ -1,0 +1,15 @@
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.sourcelink.json
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\estrutura\Estrutura-De-Dados-2025\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll

@@ -1,0 +1,5 @@
+C:\estrutura\Estrutura-De-Dados-2025\companytree\obj\Debug\net9.0\companytree.GeneratedMSBuildEditorConfig.editorconfig
+C:\estrutura\Estrutura-De-Dados-2025\companytree\obj\Debug\net9.0\companytree.AssemblyInfoInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\companytree\obj\Debug\net9.0\companytree.AssemblyInfo.cs
+C:\estrutura\Estrutura-De-Dados-2025\companytree\obj\Debug\net9.0\companytree.csproj.CoreCompileInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\companytree\obj\Debug\net9.0\companytree.sourcelink.json

@@ -1,0 +1,15 @@
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.AssemblyInfoInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.AssemblyInfo.cs
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.csproj.CoreCompileInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.sourcelink.json
+C:\estrutura\Estrutura-De-Dados-2025\arvores\bin\Debug\net9.0\arvores.exe
+C:\estrutura\Estrutura-De-Dados-2025\arvores\bin\Debug\net9.0\arvores.deps.json
+C:\estrutura\Estrutura-De-Dados-2025\arvores\bin\Debug\net9.0\arvores.runtimeconfig.json
+C:\estrutura\Estrutura-De-Dados-2025\arvores\bin\Debug\net9.0\arvores.dll
+C:\estrutura\Estrutura-De-Dados-2025\arvores\bin\Debug\net9.0\arvores.pdb
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.dll
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\refint\arvores.dll
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.pdb
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\arvores.genruntimeconfig.cache
+C:\estrutura\Estrutura-De-Dados-2025\arvores\obj\Debug\net9.0\ref\arvores.dll

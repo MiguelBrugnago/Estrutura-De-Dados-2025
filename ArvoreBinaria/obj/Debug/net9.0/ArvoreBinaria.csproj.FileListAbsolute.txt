@@ -1,0 +1,15 @@
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.exe
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.deps.json
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.runtimeconfig.json
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.dll
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.pdb
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfo.cs
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.sourcelink.json
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.dll
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\refint\ArvoreBinaria.dll
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.pdb
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.genruntimeconfig.cache
+C:\estrutura\Estrutura-De-Dados-2025\ArvoreBinaria\obj\Debug\net9.0\ref\ArvoreBinaria.dll
