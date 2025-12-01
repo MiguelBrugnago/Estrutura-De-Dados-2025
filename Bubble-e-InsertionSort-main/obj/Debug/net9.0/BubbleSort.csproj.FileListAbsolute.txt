@@ -1,0 +1,14 @@
+C:\unoesc\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+C:\unoesc\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+C:\unoesc\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\unoesc\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+C:\unoesc\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+C:\unoesc\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+C:\unoesc\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\unoesc\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll
