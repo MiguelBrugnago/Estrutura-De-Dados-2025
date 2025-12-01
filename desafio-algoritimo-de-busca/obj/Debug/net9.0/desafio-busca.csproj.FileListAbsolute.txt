@@ -1,0 +1,14 @@
+C:\unoesc\desafio-busca\bin\Debug\net9.0\desafio-busca.exe
+C:\unoesc\desafio-busca\bin\Debug\net9.0\desafio-busca.deps.json
+C:\unoesc\desafio-busca\bin\Debug\net9.0\desafio-busca.runtimeconfig.json
+C:\unoesc\desafio-busca\bin\Debug\net9.0\desafio-busca.dll
+C:\unoesc\desafio-busca\bin\Debug\net9.0\desafio-busca.pdb
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.AssemblyInfoInputs.cache
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.AssemblyInfo.cs
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.csproj.CoreCompileInputs.cache
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.dll
+C:\unoesc\desafio-busca\obj\Debug\net9.0\refint\desafio-busca.dll
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.pdb
+C:\unoesc\desafio-busca\obj\Debug\net9.0\desafio-busca.genruntimeconfig.cache
+C:\unoesc\desafio-busca\obj\Debug\net9.0\ref\desafio-busca.dll
